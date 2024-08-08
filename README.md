@@ -3,7 +3,7 @@
 # Aculi Mergekit Gui
 
 The local way of merging LLMs, but, with a GUI!
-based on [Mergekit](https://github.com/arcee-ai/mergekit)
+based on [Mergekit](https://github.com/arcee-ai/mergekit) / [Mergekit-gui](https://huggingface.co/spaces/arcee-ai/mergekit-gui)
 
 ## Features
 
